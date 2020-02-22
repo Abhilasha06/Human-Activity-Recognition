@@ -4,6 +4,9 @@ Human Activity Recognition has varied application in the field of video surveill
 
 There are different approaches in this field, this project is based on the binary motion image and deep learning approach. Currently, this project classifies eight different human activities - walking, running, jogging, galloping sideways, jumping horizontally, one hand wave, two hand wave and bending. These activities fall into two categories, the first one is the one which is completely dynamic and the second one is somewhat less dynamic, in the sense that there is no motion of the entire body.
 
+<img width="372" alt="Untitled" src="https://user-images.githubusercontent.com/43816262/75093011-ddf3e400-55a3-11ea-945d-d77653250e65.png">
+
+
 This repo consists of four folders-
 1.	activity1- Code to recognize walking, running, jogging, galloping sideways and jumping horizontally.
 2.	activity2- Code to recognize one hand wave, two hand wave and bending.
